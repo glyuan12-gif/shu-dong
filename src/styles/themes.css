@@ -1,0 +1,156 @@
+/* ========== 森林主题（默认）========== */
+:root,
+[data-theme="forest"] {
+  --background: 234 25% 96%;
+  --foreground: 160 30% 12%;
+  --card: 0 0% 100%;
+  --card-foreground: 160 30% 12%;
+  --primary: 152 60% 35%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 152 20% 90%;
+  --secondary-foreground: 152 40% 25%;
+  --muted: 152 15% 92%;
+  --muted-foreground: 152 10% 45%;
+  --accent: 80 50% 50%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 84% 60%;
+  --border: 152 15% 85%;
+  --ring: 152 60% 35%;
+  --radius: 1rem;
+  --mood-happy: 45 93% 55%;
+  --mood-sad: 220 70% 55%;
+  --mood-angry: 0 72% 51%;
+  --mood-anxious: 280 60% 55%;
+  --mood-calm: 170 50% 50%;
+  --mood-excited: 25 95% 53%;
+  --mood-tired: 240 15% 55%;
+  --mood-grateful: 340 65% 55%;
+  --orb-1: 152 60% 70%;
+  --orb-2: 80 50% 70%;
+  --orb-3: 170 50% 65%;
+  --orb-opacity: 0.15;
+}
+
+/* ========== 暗夜主题 ========== */
+[data-theme="dark"] {
+  --background: 230 25% 8%;
+  --foreground: 230 15% 90%;
+  --card: 230 20% 12%;
+  --card-foreground: 230 15% 90%;
+  --primary: 230 60% 65%;
+  --primary-foreground: 230 25% 8%;
+  --secondary: 230 15% 18%;
+  --secondary-foreground: 230 15% 85%;
+  --muted: 230 15% 15%;
+  --muted-foreground: 230 10% 55%;
+  --accent: 260 50% 65%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 62% 50%;
+  --border: 230 15% 20%;
+  --ring: 230 60% 65%;
+  --mood-happy: 45 80% 55%;
+  --mood-sad: 220 55% 55%;
+  --mood-angry: 0 60% 50%;
+  --mood-anxious: 280 45% 55%;
+  --mood-calm: 170 40% 45%;
+  --mood-excited: 25 80% 50%;
+  --mood-tired: 240 10% 50%;
+  --mood-grateful: 340 50% 55%;
+  --orb-1: 230 60% 30%;
+  --orb-2: 260 50% 30%;
+  --orb-3: 200 50% 25%;
+  --orb-opacity: 0.08;
+}
+
+/* ========== 樱花主题 ========== */
+[data-theme="sakura"] {
+  --background: 340 30% 97%;
+  --foreground: 340 30% 20%;
+  --card: 0 0% 100%;
+  --card-foreground: 340 30% 20%;
+  --primary: 340 65% 65%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 340 25% 93%;
+  --secondary-foreground: 340 40% 30%;
+  --muted: 340 15% 93%;
+  --muted-foreground: 340 10% 50%;
+  --accent: 320 50% 60%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 84% 60%;
+  --border: 340 15% 88%;
+  --ring: 340 65% 65%;
+  --mood-happy: 45 93% 55%;
+  --mood-sad: 220 70% 55%;
+  --mood-angry: 0 72% 51%;
+  --mood-anxious: 280 60% 55%;
+  --mood-calm: 170 50% 50%;
+  --mood-excited: 25 95% 53%;
+  --mood-tired: 240 15% 55%;
+  --mood-grateful: 340 65% 55%;
+  --orb-1: 340 65% 80%;
+  --orb-2: 320 50% 80%;
+  --orb-3: 350 60% 78%;
+  --orb-opacity: 0.18;
+}
+
+/* ========== 暖阳主题 ========== */
+[data-theme="sunny"] {
+  --background: 40 40% 97%;
+  --foreground: 25 40% 15%;
+  --card: 0 0% 100%;
+  --card-foreground: 25 40% 15%;
+  --primary: 25 90% 50%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 40 30% 92%;
+  --secondary-foreground: 25 50% 25%;
+  --muted: 40 20% 93%;
+  --muted-foreground: 25 15% 45%;
+  --accent: 45 90% 50%;
+  --accent-foreground: 25 40% 15%;
+  --destructive: 0 84% 60%;
+  --border: 40 20% 87%;
+  --ring: 25 90% 50%;
+  --mood-happy: 45 93% 55%;
+  --mood-sad: 220 70% 55%;
+  --mood-angry: 0 72% 51%;
+  --mood-anxious: 280 60% 55%;
+  --mood-calm: 170 50% 50%;
+  --mood-excited: 25 95% 53%;
+  --mood-tired: 240 15% 55%;
+  --mood-grateful: 340 65% 55%;
+  --orb-1: 45 90% 75%;
+  --orb-2: 25 80% 70%;
+  --orb-3: 35 85% 72%;
+  --orb-opacity: 0.15;
+}
+
+/* ========== 星空主题 ========== */
+[data-theme="starry"] {
+  --background: 250 30% 6%;
+  --foreground: 250 15% 92%;
+  --card: 250 20% 10%;
+  --card-foreground: 250 15% 92%;
+  --primary: 250 60% 70%;
+  --primary-foreground: 250 30% 6%;
+  --secondary: 250 15% 16%;
+  --secondary-foreground: 250 15% 88%;
+  --muted: 250 15% 14%;
+  --muted-foreground: 250 10% 55%;
+  --accent: 280 50% 70%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 62% 50%;
+  --border: 250 15% 20%;
+  --ring: 250 60% 70%;
+  --mood-happy: 45 80% 55%;
+  --mood-sad: 220 55% 55%;
+  --mood-angry: 0 60% 50%;
+  --mood-anxious: 280 45% 55%;
+  --mood-calm: 170 40% 45%;
+  --mood-excited: 25 80% 50%;
+  --mood-tired: 240 10% 50%;
+  --mood-grateful: 340 50% 55%;
+  --orb-1: 250 60% 25%;
+  --orb-2: 280 50% 20%;
+  --orb-3: 220 50% 22%;
+  --orb-opacity: 0.1;
+}
